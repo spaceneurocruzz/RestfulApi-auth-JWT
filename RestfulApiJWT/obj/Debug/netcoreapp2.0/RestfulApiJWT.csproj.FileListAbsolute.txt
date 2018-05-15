@@ -1,0 +1,11 @@
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\bin\Debug\netcoreapp2.0\RestfulApiJWT.deps.json
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\bin\Debug\netcoreapp2.0\RestfulApiJWT.runtimeconfig.json
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\bin\Debug\netcoreapp2.0\RestfulApiJWT.runtimeconfig.dev.json
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\bin\Debug\netcoreapp2.0\RestfulApiJWT.dll
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\obj\Debug\netcoreapp2.0\RestfulApiJWT.csprojResolveAssemblyReference.cache
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\obj\Debug\netcoreapp2.0\RestfulApiJWT.csproj.CoreCompileInputs.cache
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\obj\Debug\netcoreapp2.0\RestfulApiJWT.AssemblyInfoInputs.cache
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\obj\Debug\netcoreapp2.0\RestfulApiJWT.AssemblyInfo.cs
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\bin\Debug\netcoreapp2.0\RestfulApiJWT.pdb
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\obj\Debug\netcoreapp2.0\RestfulApiJWT.dll
+c:\users\sherlockholmes\source\repos\RestfulApiJWT\RestfulApiJWT\obj\Debug\netcoreapp2.0\RestfulApiJWT.pdb
